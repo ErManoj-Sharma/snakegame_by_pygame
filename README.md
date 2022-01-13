@@ -30,7 +30,7 @@ Extract Zip file .
 Enjoy game ...
 
 ## Method 2
-if you don't want to donwload python and pygame
+if you don't want to download python and pygame
 ```
 Download snakegame.7z 
 extract it

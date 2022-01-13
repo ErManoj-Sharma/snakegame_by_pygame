@@ -1,5 +1,5 @@
 
-# Snake Game By Pygame 
+# _Snake Game By Pygame_ 
 
 This project is created by using pygame module. 
 this is for fun purpose .
@@ -37,3 +37,18 @@ extract it
 double click on snakegame.exe
  ```
  Enjoy game... 
+## Features
+
+- Easy to install & Play
+- Window mode
+- Cross platform (exe or source file)
+
+
+![Welcome Window](https://github.com/ErManoj-Sharma/snakegame_by_pygame/blob/master/3.PNG)
+![Gamimg Window ](https://github.com/ErManoj-Sharma/snakegame_by_pygame/blob/master/1.PNG)
+![Game Over Window](https://github.com/ErManoj-Sharma/snakegame_by_pygame/blob/master/2.PNG)
+
+## Authors
+
+- [@Manoj Sharma](https://github.com/ErManoj-Sharma)
+

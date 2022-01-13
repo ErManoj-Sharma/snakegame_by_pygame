@@ -44,9 +44,9 @@ double click on snakegame.exe
 - Cross platform (exe or source file)
 
 
-![Welcome Window](https://github.com/ErManoj-Sharma/snakegame_by_pygame/blob/master/3.PNG)
-![Gamimg Window ](https://github.com/ErManoj-Sharma/snakegame_by_pygame/blob/master/1.PNG)
-![Game Over Window](https://github.com/ErManoj-Sharma/snakegame_by_pygame/blob/master/2.PNG)
+![Welcome Window](https://github.com/ErManoj-Sharma/snakegame_by_pygame/blob/master/3.PNG " WELCOME WINDOW ")
+![Gaming Window ](https://github.com/ErManoj-Sharma/snakegame_by_pygame/blob/master/1.PNG " GAMING WINDOW ")
+![Game Over Window](https://github.com/ErManoj-Sharma/snakegame_by_pygame/blob/master/2.PNG " GAME OVER WINDOW" )
 
 ## Authors
 
